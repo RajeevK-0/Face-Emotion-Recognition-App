@@ -1,8 +1,10 @@
 numpy
 tensorflow
 keras
-opencv-python
-opencv-contrib-python
+opencv-python-headless
+# opencv-python
+# opencv-contrib-python
+opencv-contrib-python-headless
 streamlit
 pandas
 altair
