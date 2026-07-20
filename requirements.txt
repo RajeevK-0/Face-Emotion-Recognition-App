@@ -2,6 +2,7 @@ numpy
 tensorflow
 keras
 opencv-python
+opencv-contrib-python
 streamlit
 pandas
 altair
